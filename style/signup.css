@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.trial{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.input-field{
+    text-align: center;
+}
+.empty-field{
+    margin-bottom: 10px;
+}
+.ending{
+    text-align: center;
+}
