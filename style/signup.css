@@ -1,10 +1,14 @@
 *{
     margin: 0;
     padding: 0;
+    /* box-sizing: border-box; */
 }
 h1{
     text-align: center;
     margin-bottom: 30px;
+    margin-top: 20px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .trial{
     text-align: center;
@@ -14,8 +18,37 @@ h1{
     text-align: center;
 }
 .empty-field{
+    margin-bottom: 15px;
+    width: 350px;
+    padding: 13px;
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+    box-shadow: 2px 3px 3px 3px gainsboro;
+    
+}
+.btn{
+    margin-top: 7px;
+    margin-bottom: 5px;
+}
+.btn-2{
+    margin-top: 10px;
+}
+.policy-link{
+    margin-top: 20px;
+    margin-bottom:20px ;
+}
+.log-in{
     margin-bottom: 10px;
 }
 .ending{
     text-align: center;
+}
+.content{
+    border: 5px solid black;
+    background-color: skyblue;
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 2px 3px 3px;
+    border-radius: 20px;
 }
